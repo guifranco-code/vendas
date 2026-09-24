@@ -1,0 +1,7 @@
+{
+  "name": "Reserva Mooca - Lançamento Residencial",
+  "description": "Lançamento exclusivo de apartamentos de alto padrão na Mooca com 2 e 3 suítes, lazer completo e condições especiais de pré-lançamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
